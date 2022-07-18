@@ -1,0 +1,204 @@
+
+//margin
+$marginXS: 4px;
+$marginSM: 8Px;
+$marginMD: 12px;
+$marginLG: 16px;
+$marginXL: 20px;
+
+// padding
+$paddingXS: 4px;
+$paddingSM: 8Px;
+$paddingMD: 12px;
+$paddingLG: 16px;
+$paddingXL: 20px;
+
+
+html, body, #app {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+    background-color: #eee;
+    color: #555;
+    height: 100%;
+    font-family: sans-serif;
+}
+
+.pad-leftXL {
+    padding-left: $paddingXL;
+}
+
+.pad-rightSM {
+    padding-right: $paddingSM;
+}
+
+.text-danger {
+    color: red;
+}
+
+.text-success {
+    color: #20b2aa;
+}
+
+.container {
+    padding: $paddingLG;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+.header {
+    box-sizing: border-box;
+    padding: $paddingLG;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main-wrapper {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    padding-bottom: $paddingLG;
+    align-items: stretch;
+    width: 100vw;
+    height: calc(100% - 60px);
+    overflow: hidden;
+}
+
+.main-content {
+    display: flex;
+    box-sizing: border-box;
+    background: #fff;
+    width: 100%;
+    justify-content: center;
+    overflow-y: auto;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.full-height {
+    height: 100%;
+}
+
+.login-form {
+    width: 300px;
+
+    input[type='text'], input[type='password'], button {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    div {
+        margin-bottom: $paddingSM;
+    }
+}
+
+.hours-table {
+    background-color: #eee;
+    width: 1000px;
+    max-height: auto;
+    overflow: auto;
+    margin: $marginLG 0;
+
+    .table-header {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        padding: $paddingMD;
+        box-sizing: border-box;
+    }
+
+    .table-body {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        justify-content: space-between;
+        padding: $paddingMD;
+        box-sizing: border-box;
+    }
+
+    .table-row {
+        display: flex;
+        position: relative;
+        width: 100%;
+        justify-content: space-between;
+        box-sizing: border-box;
+        height: 50px;
+        margin-bottom: $marginXS;
+        align-items: center;
+
+        div {
+            width: 175px;
+            flex-grow: 2;
+            box-sizing: border-box;
+
+            input {
+                width: 85%;
+            }
+
+            &:last-child, &:nth-child(2) {
+                width: 45px;
+            }
+        }
+
+    }
+}
+
+button {
+    box-sizing: border-box;
+    padding: $paddingSM $paddingMD;
+    border: none;
+    cursor: pointer;
+
+    &.primary {
+        background-color: #20b2aa;
+        color: #fff;
+    }
+
+    &.secondary-action {
+        background-color: transparent;
+        color: #20b2aa;
+    }
+}
+
+input {
+    background-color: #fff;
+    border: none;
+    border-bottom: 2px solid #ddd;
+    padding: $paddingSM $paddingXS;
+    border-radius: none;
+
+    &:focus {
+        border-color: #20b2aa;
+        outline: none;
+    }
+
+    &.is-invalid {
+        border-color: red;
+        color: red;
+    }
+}
+
+.alert {
+    padding: $paddingXS;
+    box-sizing: border-box;
+    width: 100%;
+
+    &.attached {
+        position: absolute;
+        bottom: 100%;
+    }
+
+    &.alert-error {
+        background-color: rosybrown;
+        color: #fff;
+    }
+}

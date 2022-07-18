@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+    webserver:
+      build: .
+      ports:
+       - "80:8080"
+       - "3000:3000"

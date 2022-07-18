@@ -1,0 +1,757 @@
+{
+  "users": [
+    {
+      "name": "test",
+      "password": "test",
+      "token": "5nzxflwcs5",
+      "id": 4
+    },
+    {
+      "name": "sarahconnor",
+      "password": "terminator",
+      "token": "idvbq0cq8im",
+      "id": 5
+    },
+    {
+      "name": "a",
+      "password": "a",
+      "token": "mziotxvb8a",
+      "id": 6
+    }
+  ],
+  "entries": [
+    {
+      "uid": 4,
+      "month": 3,
+      "year": 2021,
+      "total_hours": "219:57",
+      "needed_hours": "187:00",
+      "diff_hours": "32:57",
+      "data": [
+        {
+          "arrive": "06:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "17:00",
+          "total": "10:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "18:00",
+          "total": "11:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "17:00",
+          "total": "10:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "12:01",
+          "exit": "23:00",
+          "total": "16:59"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "13:00",
+          "lunchReturn": "14:00",
+          "exit": "23:00",
+          "total": "16:00"
+        },
+        {
+          "arrive": "09:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "18:00",
+          "total": "08:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "13:00",
+          "lunchReturn": "14:00",
+          "exit": "21:00",
+          "total": "14:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "18:00",
+          "total": "11:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "16:00",
+          "total": "09:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "16:00",
+          "total": "09:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "18:00",
+          "total": "11:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "17:00",
+          "total": "10:00"
+        },
+        {
+          "arrive": "08:09",
+          "lunchBreak": "09:07",
+          "lunchReturn": "18:00",
+          "exit": "19:00",
+          "total": "01:58"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "18:00",
+          "total": "11:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "21:00",
+          "total": "14:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "13:00",
+          "lunchReturn": "14:00",
+          "exit": "23:00",
+          "total": "16:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "18:00",
+          "total": "11:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "08:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "17:00",
+          "total": "08:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "13:00",
+          "lunchReturn": "14:00",
+          "exit": "18:00",
+          "total": "11:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "06:00",
+          "lunchBreak": "12:00",
+          "lunchReturn": "13:00",
+          "exit": "18:00",
+          "total": "11:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "uid": 5,
+      "month": 3,
+      "year": 2021,
+      "total_hours": "00:00",
+      "needed_hours": "187:00",
+      "diff_hours": "-187:00",
+      "data": [
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "uid": 6,
+      "month": 3,
+      "year": 2021,
+      "total_hours": "00:00",
+      "needed_hours": "187:00",
+      "diff_hours": "-187:00",
+      "data": [
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        },
+        {
+          "arrive": "00:00",
+          "lunchBreak": "00:00",
+          "lunchReturn": "00:00",
+          "exit": "00:00",
+          "total": "00:00",
+          "diff": "00:00"
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
